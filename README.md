@@ -43,20 +43,6 @@ The goal of this project is not accuracy, but fun, creativity, and JavaScript pr
 
 No frameworks. No libraries. Pure basics.
 
----
-
-## 🚀 Deployment
-
-Deployed using GitHub Pages.
-
-Steps:
-1. Push project to GitHub
-2. Go to Settings → Pages
-3. Select `main` branch and `/root`
-4. Save and wait a minute
-
----
-
 ## 🤪 Disclaimer
 
 ⚠️ This calculator is for fun only.  
