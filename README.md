@@ -4,8 +4,7 @@ A fun web-based calculator that intentionally gives wrong answers.
 Because sometimes… math lies 😉
 
 🔗 Live Demo:  
-https://snehasuman019.github.io/fun-wrong-calculator/
-
+https://snehasuman019.github.io/Fun-Wrong-Calc/
 ---
 
 ## 🎯 About the Project
